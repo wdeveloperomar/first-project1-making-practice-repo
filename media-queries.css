@@ -37,6 +37,10 @@
         width: 100%;
     }
 
+    .get-started-btn {
+        margin: 0;
+    }
+
     h1 {
         font-size: 2.5rem;
     }
@@ -55,6 +59,7 @@
         color: var(--secondary-text-color);
         line-height: 1.8rem;
     }
+
     
     .header-section {
         flex-direction: column-reverse;
